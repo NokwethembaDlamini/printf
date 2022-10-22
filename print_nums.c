@@ -1,4 +1,4 @@
-#include "main.h" 
+#include "main.h"
 
 /**
  * print_i - prints an integer
@@ -38,7 +38,6 @@ int print_i(va_list i)
 	}
 	return (count);
 }
- 
 /**
  * print_d - prints a decimal
  * @d: decimal to print
